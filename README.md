@@ -1,6 +1,6 @@
 # Fashion_Recommender_System
 
-This is a fashion recommender web app made by stremlit, where you can choose a picture and paste it on website it would automatically detect the similar products and 
+This is a fashion recommender web app made by streamlit, where you can choose a picture and paste it on website it would automatically detect the similar products and 
 would show you the results.
 
 ## Libraries Used
