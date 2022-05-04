@@ -15,3 +15,9 @@ Each product is identified by an ID like 42431. You will find a map to all the p
 3. Transfer Learning(ResNet50)
 
 **Web app link** - 
+
+
+## Sample Video-
+
+https://user-images.githubusercontent.com/69348400/166624915-8bd6536c-3875-4c4e-8207-b1a0ff8e380f.mp4
+
